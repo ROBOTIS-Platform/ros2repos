@@ -197,7 +197,7 @@ repositories:
     version: dashing
   ros2/poco_vendor:
     type: git
-    url: https://github.com/ROBOTIS-Platform/poco_vendor.git
+    url: https://github.com/ros2/poco_vendor.git
     version: dashing
   ros2/rcl:
     type: git
